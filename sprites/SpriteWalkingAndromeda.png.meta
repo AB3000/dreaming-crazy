@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: ddab5c9c1dd4a48dfb464fa996296e20
+timeCreated: 1508369984
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteWalkingAndromeda_0
+    21300002: SpriteWalkingAndromeda_1
+    21300004: SpriteWalkingAndromeda_2
+    21300006: SpriteWalkingAndromeda_3
+    21300008: SpriteWalkingAndromeda_4
+    21300010: SpriteWalkingAndromeda_5
+    21300012: SpriteWalkingAndromeda_6
+    21300014: SpriteWalkingAndromeda_7
+    21300016: SpriteWalkingAndromeda_8
+    21300018: SpriteWalkingAndromeda_9
+    21300020: SpriteWalkingAndromeda_10
+    21300022: SpriteWalkingAndromeda_11
+    21300024: SpriteWalkingAndromeda_12
+    21300026: SpriteWalkingAndromeda_13
+    21300028: SpriteWalkingAndromeda_14
+    21300030: SpriteWalkingAndromeda_15
+    21300032: SpriteWalkingAndromeda_16
+    21300034: SpriteWalkingAndromeda_17
+    21300036: SpriteWalkingAndromeda_18
+    21300038: SpriteWalkingAndromeda_19
+    21300040: SpriteWalkingAndromeda_20
+    21300042: SpriteWalkingAndromeda_21
+    21300044: SpriteWalkingAndromeda_22
+    21300046: SpriteWalkingAndromeda_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2208
+        width: 376
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2226
+        width: 214
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_2
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2250
+        width: 263
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_3
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2265
+        width: 346
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_4
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 2246
+        width: 427
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_5
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 2246
+        width: 393
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1044
+        width: 393
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1044
+        width: 427
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_8
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1063
+        width: 346
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_9
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1048
+        width: 264
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_10
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1023
+        width: 214
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_11
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1006
+        width: 376
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 800
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_13
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 39
+        width: 349
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_14
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 790
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_15
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 768
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_16
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 30
+        width: 350
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 759
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_18
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 351
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 351
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_20
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 182
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_21
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 151
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteWalkingAndromeda_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 142
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
