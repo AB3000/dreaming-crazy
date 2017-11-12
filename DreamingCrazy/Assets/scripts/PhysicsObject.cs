@@ -7,6 +7,7 @@ public class PhysicsObject : MonoBehaviour {
 	public float minGroundNormalY = .65f;
 	public float gravityModifier = 1f;
 
+	protected Vector2 targetVelocity;//where our object is trying to move
 	protected bool grounded;
 	protected Vector2 groundNormal;
 	protected Rigidbody2D rb2d;
@@ -40,13 +41,20 @@ public class PhysicsObject : MonoBehaviour {
 	void FixedUpdate(){
 		//move our object downward each frame bc of gravity
 		velocity += gravityModifier * Physics2D.gravity * Time.deltaTime;
+		velocity.x = targetVelocity.x;
 
 		grounded = false;//player is not grounded
 
 		//determines the next position of the object based on gravity
 		Vector2 deltaPosition = velocity * Time.deltaTime; 
 
-		Vector2 move = Vector2.up * deltaPosition.y;//we'll pass this to movement function
+		Vector2 moveAlongGround = new Vector2 (groundNormal.y, -groundNormal.x);
+
+		Vector2 move = moveAlongGround * deltaPosition.x;
+
+		Movement (move, false);//false bc we are not moving along the y-axis
+
+		move = Vector2.up * deltaPosition.y;//we'll pass this to movement function
 
 		Movement (move, true);
 
